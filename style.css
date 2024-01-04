@@ -21,7 +21,7 @@ body {
   align-items: center;
   margin: 2vh 0;
 }
-.choices {
+.choice-cont {
   width: 70vw;
   display: flex;
   justify-content: space-around;
@@ -29,7 +29,7 @@ body {
 
 }
 
-.choice-cont {
+.choice {
   width: 12vw;
   height: 22vh;
   display: flex;
