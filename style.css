@@ -30,8 +30,8 @@ body {
 }
 
 .choice {
-  width: 12vw;
-  height: 22vh;
+  width: 17vw;
+  height: 17vw;
   display: flex;
   justify-content: center;
   align-items: center;
